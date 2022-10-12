@@ -1,0 +1,295 @@
+/* screen - sign-up */
+
+.sign-up {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.sign-up .overlap-group {
+  height: 982px;
+  margin-left: -512px;
+  margin-top: 85px;
+  position: relative;
+  width: 2592px;
+  z-index: 1;
+}
+
+.sign-up .rectangle-1 {
+  background-color: var(--caper);
+  border: 1px none;
+  height: 982px;
+  left: 528px;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.sign-up .rectangle-63 {
+  background-color: var(--saddle);
+  border: 1px none;
+  height: 889px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 1502px;
+}
+
+.sign-up .rectangle-63-1 {
+  height: 412px;
+  left: 512px;
+  position: absolute;
+  top: 399px;
+  width: 950px;
+}
+
+.sign-up .rectangle-64 {
+  height: 48px;
+  left: 1516px;
+  position: absolute;
+  top: 413px;
+  width: 485px;
+}
+
+.sign-up .rectangle-69 {
+  height: 48px;
+  left: 1516px;
+  position: absolute;
+  top: 471px;
+  width: 485px;
+}
+
+.sign-up .rectangle-71 {
+  height: 48px;
+  left: 1518px;
+  position: absolute;
+  top: 529px;
+  width: 485px;
+}
+
+.sign-up .rectangle-65 {
+  height: 51px;
+  left: 1517px;
+  position: absolute;
+  top: 232px;
+  width: 484px;
+}
+
+.sign-up .rectangle-70 {
+  height: 51px;
+  left: 1516px;
+  position: absolute;
+  top: 292px;
+  width: 484px;
+}
+
+.sign-up .rectangle-67 {
+  height: 48px;
+  left: 1517px;
+  position: absolute;
+  top: 355px;
+  width: 229px;
+}
+
+.sign-up .rectangle-68 {
+  height: 50px;
+  left: 1772px;
+  position: absolute;
+  top: 353px;
+  width: 129px;
+}
+
+.sign-up .email-adress {
+  left: 1567px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 414px;
+  width: 260px;
+}
+
+.sign-up .password {
+  left: 1595px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 470px;
+  width: 260px;
+}
+
+.sign-up .age {
+  left: 1792px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 354px;
+  width: 126px;
+}
+
+.sign-up .full-name {
+  left: 1580px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 236px;
+  width: 367px;
+}
+
+.sign-up .username {
+  left: 1580px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 294px;
+  width: 233px;
+}
+
+.sign-up .location {
+  left: 1535px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 356px;
+  width: 323px;
+}
+
+.sign-up .confirm-password {
+  left: 1535px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 528px;
+  width: 376px;
+}
+
+.sign-up .rectangle-63-2 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 28px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 41px;
+  left: 1801px;
+  position: absolute;
+  top: 612px;
+  width: 192px;
+}
+
+.sign-up .rectangle-73 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 28px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 42px;
+  left: 1782px;
+  position: absolute;
+  top: 830px;
+  width: 192px;
+}
+
+.sign-up .rectangle-63-3 {
+  background-color: var(--caper);
+  border: 1px none;
+  border-radius: 28px;
+  cursor: pointer;
+  height: 31px;
+  left: 1807px;
+  position: absolute;
+  top: 618px;
+  width: 180px;
+}
+
+.sign-up .rectangle-72 {
+  background-color: var(--caper);
+  border: 1px none;
+  border-radius: 28px;
+  cursor: pointer;
+  height: 31px;
+  left: 1788px;
+  position: absolute;
+  top: 835px;
+  width: 180px;
+}
+
+.sign-up .nau-mai-haere-mai-ki-hamuhamu {
+  left: 594px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 57px;
+  width: 886px;
+}
+
+.sign-up .span1 {
+  color: var(--white);
+  font-family: var(--font-family-caveat);
+  font-size: 80px;
+  font-weight: 700;
+}
+
+.sign-up .span2 {
+  color: var(--white);
+  font-family: var(--font-family-caveat);
+  font-size: 80px;
+  font-weight: 400;
+}
+
+.sign-up .span3 {
+  color: var(--white);
+  font-family: var(--font-family-patua_one);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+}
+
+.sign-up .get-started-with-us {
+  left: 1541px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 47px;
+  width: 446px;
+}
+
+.sign-up .sign-up-1 {
+  left: 1862px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 614px;
+  width: 272px;
+}
+
+.sign-up .switch-to-log-in {
+  left: 1815px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 831px;
+  width: 252px;
+}
+
+.sign-up .already-have-a-account {
+  left: 1579px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 830px;
+  width: 1013px;
+}
+
+.sign-up .great-barrier-island-100-pure-nz-1 {
+  height: 370px;
+  left: 512px;
+  object-fit: cover;
+  position: absolute;
+  top: 421px;
+  width: 929px;
+}
+
+.sign-up .ixxn221_a2_-logo-copy-15 {
+  height: 289px;
+  left: 528px;
+  position: absolute;
+  top: 118px;
+  width: 280px;
+}
+
+.sign-up .screen-shot-2022-09-24-at-1251-1 {
+  height: 93px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 1512px;
+  z-index: 2;
+}

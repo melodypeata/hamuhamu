@@ -1,0 +1,344 @@
+/* screen - recipes */
+
+.recipes {
+  align-items: flex-start;
+  background-color: var(--solitaire-2);
+  border: 1px none;
+  display: flex;
+  width: 1512px;
+}
+
+.recipes .overlap-group4 {
+  height: 1837px;
+  position: relative;
+  width: 1512px;
+  z-index: 1;
+}
+
+.recipes .overlap-group-container {
+  height: 1837px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.recipes .overlap-group1 {
+  height: 385px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.recipes .rectangle-138 {
+  height: 325px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.recipes .rectangle-137 {
+  height: 301px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.recipes .rectangle-139 {
+  height: 275px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.recipes .ixxn221_a2_-logo-copy-13 {
+  cursor: pointer;
+  height: 161px;
+  left: 0;
+  position: absolute;
+  top: 107px;
+  width: 157px;
+}
+
+.recipes .hamuhamu {
+  left: 157px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 120px;
+  width: 1056px;
+}
+
+.recipes .ellipse-6 {
+  background-color: var(--solitaire-2);
+  border: 1px none;
+  border-radius: 137.5px/134.5px;
+  height: 269px;
+  left: 1194px;
+  position: absolute;
+  top: 116px;
+  width: 275px;
+}
+
+.recipes .ellipse-6-1 {
+  height: 230px;
+  left: 1213px;
+  position: absolute;
+  top: 135px;
+  width: 237px;
+}
+
+.recipes .overlap-group {
+  height: 1512px;
+  left: 0;
+  position: absolute;
+  top: 325px;
+  width: 753px;
+}
+
+.recipes .rectangle-82 {
+  height: 752px;
+  left: 0;
+  position: absolute;
+  top: 64px;
+  width: 749px;
+}
+
+.recipes .rectangle-83 {
+  height: 696px;
+  left: 0;
+  position: absolute;
+  top: 816px;
+  width: 753px;
+}
+
+.recipes .rectangle-139-1 {
+  height: 60px;
+  left: 49px;
+  position: absolute;
+  top: 0;
+  width: 261px;
+}
+
+.recipes .rectangle-140 {
+  height: 48px;
+  left: 56px;
+  position: absolute;
+  top: 6px;
+  width: 247px;
+}
+
+.recipes .rectangle-137-1 {
+  height: 257px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 878px;
+  width: 259px;
+}
+
+.recipes .every-bee-there-is {
+  left: 26px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1186px;
+  width: 674px;
+}
+
+.recipes .ingredents-barry-an {
+  left: 306px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 960px;
+  width: 394px;
+}
+
+.recipes .instructions {
+  left: 27px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1158px;
+  width: 638px;
+}
+
+.recipes .back-to-profile {
+  left: 117px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 14px;
+  width: 249px;
+}
+
+.recipes .kwhiti-water-cress {
+  left: 306px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 882px;
+  width: 286px;
+}
+
+.recipes .here-are-some-tasty {
+  left: 29px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 98px;
+  width: 688px;
+}
+
+.recipes .rectangle-137-2 {
+  height: 509px;
+  left: 23px;
+  position: absolute;
+  top: 275px;
+  width: 509px;
+}
+
+.recipes .black-grain-salad-wi {
+  height: 456px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 295px;
+  width: 450px;
+}
+
+.recipes .try-out-our-reccomended-recipies-today {
+  color: transparent;
+  font-family: var(--font-family-patua_one);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 546px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 685px;
+  width: 154px;
+}
+
+.recipes .span0 {
+  color: var(--white);
+}
+
+.recipes .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-82-2@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  left: 749px;
+  min-height: 752px;
+  padding: 85px 29px;
+  position: absolute;
+  top: 389px;
+  width: 763px;
+}
+
+.recipes .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 33px;
+  height: 258px;
+  margin-left: 5.0px;
+  min-width: 672px;
+}
+
+.recipes .rectangle-137-3 {
+  align-self: flex-end;
+  height: 257px;
+  object-fit: cover;
+  width: 259px;
+}
+
+.recipes .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 257px;
+  width: 380px;
+}
+
+.recipes .oyster-mushroom-pleurotus-ostreatus {
+  letter-spacing: 0;
+  min-height: 91px;
+  width: 255px;
+}
+
+.recipes .ingredents-who-woul {
+  letter-spacing: 0;
+  min-height: 156px;
+  width: 380px;
+}
+
+.recipes .instructions-the-ot {
+  letter-spacing: 0;
+  min-height: 254px;
+  width: 686px;
+}
+
+.recipes .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 797px;
+  min-height: 538px;
+  position: absolute;
+  top: 1202px;
+  width: 676px;
+}
+
+.recipes .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 44px;
+  height: 277px;
+  min-width: 676px;
+}
+
+.recipes .rectangle-137-4 {
+  height: 257px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 259px;
+}
+
+.recipes .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 277px;
+  width: 373px;
+}
+
+.recipes .kareao-ripogonum-scandens {
+  letter-spacing: 0;
+  min-height: 87px;
+  width: 253px;
+}
+
+.recipes .ingredents-the-poll {
+  letter-spacing: 0;
+  min-height: 190px;
+  width: 373px;
+}
+
+.recipes .instructions-listen {
+  letter-spacing: 0;
+  min-height: 261px;
+  width: 669px;
+}
+
+.recipes .screen-shot-2022-09-24-at-1251-1 {
+  height: 93px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 1512px;
+  z-index: 2;
+}

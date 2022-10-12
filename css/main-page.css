@@ -1,0 +1,571 @@
+/* screen - main-page */
+
+.main-page {
+  align-items: flex-start;
+  background-color: var(--solitaire);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3685px;
+  overflow: hidden;
+  width: 1470px;
+}
+
+.main-page .overlap-group3 {
+  height: 2722px;
+  margin-left: -756px;
+  position: relative;
+  width: 2559px;
+  z-index: 1;
+}
+
+.main-page .overlap-group {
+  height: 2722px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2559px;
+}
+
+.main-page .rectangle-16 {
+  background-color: var(--saddle);
+  border: 1px none;
+  height: 827px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1505px;
+}
+
+.main-page .rectangle-40 {
+  height: 766px;
+  left: 1505px;
+  position: absolute;
+  top: 61px;
+  width: 721px;
+}
+
+.main-page .rectangle-44 {
+  height: 749px;
+  left: 756px;
+  position: absolute;
+  top: 827px;
+  width: 749px;
+}
+
+.main-page .ixxn221_a2_-logo-copy-1 {
+  height: 161px;
+  left: 756px;
+  position: absolute;
+  top: 96px;
+  width: 153px;
+}
+
+.main-page .rectangle-81 {
+  height: 101px;
+  left: 1644px;
+  position: absolute;
+  top: 1788px;
+  width: 503px;
+}
+
+.main-page .rectangle-27 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 28px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 41px;
+  left: 1940px;
+  position: absolute;
+  top: 105px;
+  width: 189px;
+}
+
+.main-page .rectangle-46 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 28px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 41px;
+  left: 1716px;
+  position: absolute;
+  top: 105px;
+  width: 192px;
+}
+
+.main-page .rectangle-49 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 28px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 38px;
+  left: 1262px;
+  position: absolute;
+  top: 756px;
+  transform: rotate(180deg);
+  width: 187px;
+}
+
+.main-page .rectangle-4 {
+  background-color: var(--caper);
+  border: 1px none;
+  border-radius: 28px;
+  cursor: pointer;
+  height: 31px;
+  left: 1944px;
+  position: absolute;
+  top: 110px;
+  width: 180px;
+}
+
+.main-page .rectangle-45 {
+  background-color: var(--caper);
+  border: 1px none;
+  border-radius: 28px;
+  cursor: pointer;
+  height: 31px;
+  left: 1722px;
+  position: absolute;
+  top: 110px;
+  width: 180px;
+}
+
+.main-page .rectangle-48 {
+  border: 1px none;
+  border-radius: 28px;
+  cursor: pointer;
+  height: 31px;
+  left: 1722px;
+  position: absolute;
+  top: 110px;
+  width: 180px;
+}
+
+.main-page .rectangle-47 {
+  background-color: var(--saddle);
+  border: 1px none;
+  border-radius: 28px;
+  height: 31px;
+  left: 1266px;
+  position: absolute;
+  top: 760px;
+  width: 180px;
+}
+
+.main-page .log-in {
+  left: 1702px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 115px;
+  width: 220px;
+}
+
+.main-page .sign-up {
+  left: 1853px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 115px;
+  width: 361px;
+}
+
+.main-page .ixxn221_a2_-icons-copy-1 {
+  height: 75px;
+  left: 2145px;
+  position: absolute;
+  top: 98px;
+  width: 67px;
+}
+
+.main-page .rectangle-29 {
+  background-color: var(--caper);
+  border: 1px none;
+  height: 755px;
+  left: 1507px;
+  position: absolute;
+  top: 1967px;
+  width: 1052px;
+}
+
+.main-page .the-jury-reacts-agh {
+  left: 1533px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 2492px;
+  width: 657px;
+}
+
+.main-page .kia-ora-and-welcome {
+  left: 898px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 281px;
+  width: 497px;
+}
+
+.main-page .span1 {
+  color: var(--white);
+  font-family: var(--font-family-news_cycle);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+}
+
+.main-page .first-learn-about-th {
+  left: 898px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 484px;
+  width: 484px;
+}
+
+.main-page .contact-us {
+  color: var(--white);
+  font-family: var(--font-family-patua_one);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 1320px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 764px;
+}
+
+.main-page .rectangle-13 {
+  height: 449px;
+  left: 776px;
+  object-fit: cover;
+  position: absolute;
+  top: 891px;
+  width: 447px;
+}
+
+.main-page .ixxn221_a2_image1-copy-2 {
+  height: 749px;
+  left: 1512px;
+  position: absolute;
+  top: 838px;
+  width: 714px;
+}
+
+.main-page .rectangle-53 {
+  background-color: var(--saddle);
+  border: 1px none;
+  border-radius: 28px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 38px;
+  left: 1588px;
+  position: absolute;
+  top: 867px;
+  width: 190px;
+}
+
+.main-page .rectangle-54 {
+  background-color: var(--saddle);
+  border: 1px none;
+  border-radius: 28px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 39px;
+  left: 1798px;
+  position: absolute;
+  top: 867px;
+  width: 190px;
+}
+
+.main-page .rectangle-55 {
+  background-color: var(--saddle);
+  border: 1px none;
+  border-radius: 28px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 39px;
+  left: 2018px;
+  position: absolute;
+  top: 867px;
+  width: 190px;
+}
+
+.main-page .rectangle-50 {
+  background-color: var(--solitaire);
+  border: 1px none;
+  border-radius: 28px;
+  cursor: pointer;
+  height: 31px;
+  left: 1593px;
+  position: absolute;
+  top: 870px;
+  width: 180px;
+}
+
+.main-page .rectangle-51 {
+  background-color: var(--solitaire);
+  border: 1px none;
+  border-radius: 28px;
+  cursor: pointer;
+  height: 31px;
+  left: 1803px;
+  position: absolute;
+  top: 871px;
+  width: 180px;
+}
+
+.main-page .rectangle-56 {
+  background-color: var(--solitaire);
+  border: 1px none;
+  border-radius: 28px;
+  cursor: pointer;
+  height: 31px;
+  left: 2023px;
+  position: absolute;
+  top: 871px;
+  width: 180px;
+}
+
+.main-page .koromiko {
+  cursor: pointer;
+  left: 1860px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 876px;
+  width: 500px;
+}
+
+.main-page .lions-mane {
+  left: 1851px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 876px;
+  width: 211px;
+}
+
+.main-page .harakeke-flax {
+  left: 1590px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 876px;
+  width: 186px;
+}
+
+.main-page .kawakawa-macropiper {
+  left: 1240px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 889px;
+  width: 237px;
+}
+
+.main-page .span2 {
+  color: var(--black);
+  font-family: var(--font-family-news_cycle);
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.main-page .rectangle-38 {
+  background-color: var(--saddle);
+  border: 1px none;
+  border-radius: 28px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 391px;
+  left: 667px;
+  position: absolute;
+  top: 1576px;
+  width: 1785px;
+}
+
+.main-page .rectangle-34 {
+  height: 449px;
+  left: 793px;
+  position: absolute;
+  top: 2036px;
+  width: 447px;
+}
+
+.main-page .rectangle-59 {
+  height: 307px;
+  left: 756px;
+  position: absolute;
+  top: 1619px;
+  width: 1470px;
+}
+
+.main-page .rectangle-60 {
+  height: 469px;
+  left: 1506px;
+  position: absolute;
+  top: 226px;
+  width: 720px;
+}
+
+.main-page .new_-zealand_rain_fo {
+  height: 404px;
+  left: 1504px;
+  object-fit: cover;
+  position: absolute;
+  top: 257px;
+  width: 722px;
+}
+
+.main-page .hamuhamu-aim-is-to-p {
+  left: 832px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1639px;
+  width: 1358px;
+}
+
+.main-page .rectangle-33 {
+  height: 449px;
+  left: 1756px;
+  object-fit: cover;
+  position: absolute;
+  top: 2035px;
+  width: 447px;
+}
+
+.main-page .hamuhamu {
+  left: 898px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 96px;
+  width: 1056px;
+}
+
+.main-page .an-announcement-come {
+  left: 781px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1361px;
+  width: 698px;
+}
+
+.main-page .closes-the-door-behi {
+  left: 1533px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 2186px;
+  width: 210px;
+}
+
+.main-page .lions-mane-hericium {
+  left: 1509px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 2044px;
+  width: 231px;
+}
+
+.main-page .overlap-group2 {
+  height: 561px;
+  left: 792px;
+  position: absolute;
+  top: 2134px;
+  width: 699px;
+}
+
+.main-page .splitz-this-is-the-c {
+  left: 463px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 236px;
+}
+
+.main-page .i-hope-that-was-alri {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 358px;
+  width: 685px;
+}
+
+.main-page .harakeke-flax-1 {
+  left: 1263px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2044px;
+  width: 242px;
+}
+
+.main-page .screen-shot-2022-09-24-at-1251-1 {
+  height: 73px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 1470px;
+  z-index: 3;
+}
+
+.main-page .overlap-group1 {
+  height: 963px;
+  margin-left: -303px;
+  position: relative;
+  width: 1773px;
+  z-index: 2;
+}
+
+.main-page .rectangle-25 {
+  height: 755px;
+  left: 1047px;
+  position: absolute;
+  top: 0;
+  width: 726px;
+}
+
+.main-page .rectangle-57 {
+  background-color: var(--caper);
+  border: 1px none;
+  height: 755px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1052px;
+}
+
+.main-page .are-walking-up-the-s {
+  left: 799px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 120px;
+  width: 229px;
+}
+
+.main-page .ixxn221_a2_-logo-copy-2 {
+  height: 769px;
+  left: 1107px;
+  position: absolute;
+  top: 107px;
+  width: 590px;
+}
+
+.main-page .rectangle-35 {
+  height: 449px;
+  left: 339px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 447px;
+}
+
+.main-page .rectangle-62 {
+  height: 178px;
+  left: 303px;
+  position: absolute;
+  top: 785px;
+  width: 1470px;
+}
+
+.main-page .in-there-cut-to-in {
+  left: 343px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 465px;
+  width: 695px;
+}

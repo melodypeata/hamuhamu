@@ -1,0 +1,797 @@
+/* screen - profile */
+
+.profile {
+  align-items: flex-start;
+  background-color: var(--caper);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3179px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.profile .screen-shot-2022-09-24-at-1251-1 {
+  height: 93px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 1512px;
+  z-index: 3;
+}
+
+.profile .overlap-group {
+  height: 705px;
+  margin-top: 47px;
+  position: relative;
+  width: 1512px;
+  z-index: 2;
+}
+
+.profile .rectangle-61 {
+  height: 153px;
+  left: 0;
+  position: absolute;
+  top: 513px;
+  width: 1512px;
+}
+
+.profile .rectangle-67 {
+  cursor: pointer;
+  height: 450px;
+  left: 0;
+  position: absolute;
+  top: 46px;
+  width: 1512px;
+}
+
+.profile .rectangle-13 {
+  cursor: pointer;
+  height: 450px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 1512px;
+}
+
+.profile .rectangle-136 {
+  cursor: pointer;
+  height: 450px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.profile .ellipse-3 {
+  background-color: var(--caper);
+  border: 1px none;
+  border-radius: 160.5px/160px;
+  height: 320px;
+  left: 54px;
+  position: absolute;
+  top: 302px;
+  width: 321px;
+}
+
+.profile .ellipse-2 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 147px/149px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 298px;
+  left: 68px;
+  position: absolute;
+  top: 313px;
+  width: 294px;
+}
+
+.profile .ellipse-4 {
+  height: 282px;
+  left: 78px;
+  position: absolute;
+  top: 319px;
+  width: 273px;
+}
+
+.profile .ixxn221_a2_-logo-copy-5 {
+  height: 161px;
+  left: 5px;
+  position: absolute;
+  top: 67px;
+  width: 157px;
+}
+
+.profile .ixxn221_a2_-logo-copy-6 {
+  cursor: pointer;
+  height: 161px;
+  left: 5px;
+  position: absolute;
+  top: 67px;
+  width: 157px;
+}
+
+.profile .title {
+  left: 162px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 81px;
+  width: 1056px;
+}
+
+.profile .ricky_-baker2pc {
+  left: 411px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 534px;
+  width: 449px;
+}
+
+.profile .waitakere-ranges-auckland {
+  left: 408px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 595px;
+  width: 327px;
+}
+
+.profile .address {
+  left: 923px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 534px;
+  width: 371px;
+}
+
+.profile .ixxn221_a2_-icons-copy-2 {
+  height: 75px;
+  left: 1432px;
+  position: absolute;
+  top: 367px;
+  width: 67px;
+}
+
+.profile .overlap-group-container {
+  height: 2512px;
+  margin-top: 139px;
+  position: relative;
+  width: 1942px;
+  z-index: 1;
+}
+
+.profile .overlap-group1 {
+  height: 2512px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1942px;
+}
+
+.profile .rectangle-64 {
+  height: 762px;
+  left: 750px;
+  position: absolute;
+  top: 73px;
+  width: 762px;
+}
+
+.profile .rectangle-65 {
+  height: 736px;
+  left: 758px;
+  position: absolute;
+  top: 1552px;
+  width: 754px;
+}
+
+.profile .ixxn221_a2_image1-copy-1 {
+  height: 583px;
+  left: 650px;
+  position: absolute;
+  top: 1705px;
+  width: 656px;
+}
+
+.profile .ixxn221_a2_image1-copy-2 {
+  height: 582px;
+  left: 986px;
+  position: absolute;
+  top: 1706px;
+  width: 526px;
+}
+
+.profile .rectangle-66 {
+  height: 713px;
+  left: 0;
+  position: absolute;
+  top: 1575px;
+  width: 764px;
+}
+
+.profile .rectangle-123 {
+  height: 101px;
+  left: 893px;
+  position: absolute;
+  top: 1748px;
+  width: 503px;
+}
+
+.profile .rectangle-124 {
+  height: 101px;
+  left: 894px;
+  position: absolute;
+  top: 1879px;
+  width: 503px;
+}
+
+.profile .rectangle-125 {
+  height: 101px;
+  left: 893px;
+  position: absolute;
+  top: 2137px;
+  width: 503px;
+}
+
+.profile .rectangle-126 {
+  height: 101px;
+  left: 893px;
+  position: absolute;
+  top: 2009px;
+  width: 503px;
+}
+
+.profile .rectangle-119 {
+  height: 86px;
+  left: 901px;
+  position: absolute;
+  top: 1754px;
+  width: 487px;
+}
+
+.profile .rectangle-127 {
+  height: 86px;
+  left: 137px;
+  position: absolute;
+  top: 1802px;
+  width: 487px;
+}
+
+.profile .rectangle-131 {
+  height: 72px;
+  left: 147px;
+  position: absolute;
+  top: 1810px;
+  width: 466px;
+}
+
+.profile .rectangle-128 {
+  height: 86px;
+  left: 134px;
+  position: absolute;
+  top: 1921px;
+  width: 487px;
+}
+
+.profile .rectangle-129 {
+  height: 86px;
+  left: 134px;
+  position: absolute;
+  top: 2042px;
+  width: 487px;
+}
+
+.profile .rectangle-120 {
+  height: 86px;
+  left: 901px;
+  position: absolute;
+  top: 1886px;
+  width: 487px;
+}
+
+.profile .rectangle-121 {
+  height: 86px;
+  left: 901px;
+  position: absolute;
+  top: 2016px;
+  width: 487px;
+}
+
+.profile .rectangle-122 {
+  height: 86px;
+  left: 901px;
+  position: absolute;
+  top: 2144px;
+  width: 487px;
+}
+
+.profile .rectangle-132 {
+  height: 72px;
+  left: 145px;
+  position: absolute;
+  top: 1928px;
+  width: 466px;
+}
+
+.profile .rectangle-133 {
+  height: 72px;
+  left: 145px;
+  position: absolute;
+  top: 2050px;
+  width: 466px;
+}
+
+.profile .rectangle-63 {
+  height: 753px;
+  left: 754px;
+  position: absolute;
+  top: 826px;
+  width: 756px;
+}
+
+.profile .rectangle-107 {
+  height: 257px;
+  left: 869px;
+  object-fit: cover;
+  position: absolute;
+  top: 185px;
+  width: 259px;
+}
+
+.profile .make-recipes-using-these-ingreadents {
+  color: var(--black);
+  font-family: var(--font-family-caveat);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 804px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 92px;
+  width: 259px;
+}
+
+.profile .rectangle-113 {
+  height: 544px;
+  left: 768px;
+  position: absolute;
+  top: 996px;
+  width: 727px;
+}
+
+.profile .rectangle-114 {
+  height: 523px;
+  left: 779px;
+  position: absolute;
+  top: 1002px;
+  width: 706px;
+}
+
+.profile .ixxn221_a2_map-copy-1 {
+  height: 523px;
+  left: 779px;
+  position: absolute;
+  top: 1002px;
+  width: 691px;
+}
+
+.profile .rectangle-74 {
+  height: 63px;
+  left: 1325px;
+  position: absolute;
+  top: 917px;
+  width: 146px;
+}
+
+.profile .rectangle-117 {
+  height: 63px;
+  left: 768px;
+  position: absolute;
+  top: 923px;
+  width: 146px;
+}
+
+.profile .rectangle-115 {
+  height: 48px;
+  left: 997px;
+  position: absolute;
+  top: 853px;
+  width: 485px;
+}
+
+.profile .rectangle-118 {
+  height: 48px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+  width: 247px;
+}
+
+.profile .rectangle-116 {
+  height: 48px;
+  left: 768px;
+  position: absolute;
+  top: 853px;
+  width: 220px;
+}
+
+.profile .specify-search {
+  left: 1020px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 855px;
+  width: 286px;
+}
+
+.profile .place {
+  left: 789px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 854px;
+  width: 279px;
+}
+
+.profile .polygon-3 {
+  height: 18px;
+  left: 946px;
+  position: absolute;
+  top: 863px;
+  width: 28px;
+}
+
+.profile .polygon-4 {
+  height: 13px;
+  left: 946px;
+  position: absolute;
+  top: 862px;
+  width: 28px;
+}
+
+.profile .in-large {
+  left: 806px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 931px;
+  width: 326px;
+}
+
+.profile .go {
+  left: 636px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 184px;
+  width: 172px;
+}
+
+.profile .edit-profile {
+  left: 78px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 387px;
+}
+
+.profile .rectangle-107-1 {
+  height: 257px;
+  left: 869px;
+  object-fit: cover;
+  position: absolute;
+  top: 475px;
+  width: 259px;
+}
+
+.profile .rectangle-107-2 {
+  height: 257px;
+  left: 1164px;
+  object-fit: cover;
+  position: absolute;
+  top: 475px;
+  width: 259px;
+}
+
+.profile .rectangle-108 {
+  height: 257px;
+  left: 1164px;
+  object-fit: cover;
+  position: absolute;
+  top: 185px;
+  width: 259px;
+}
+
+.profile .rectangle-110 {
+  height: 763px;
+  left: 752px;
+  position: absolute;
+  top: 72px;
+  width: 760px;
+}
+
+.profile .rectangle-112 {
+  height: 101px;
+  left: 894px;
+  position: absolute;
+  top: 410px;
+  width: 503px;
+}
+
+.profile .rectangle-111 {
+  height: 78px;
+  left: 908px;
+  position: absolute;
+  top: 416px;
+  width: 479px;
+}
+
+.profile .hamuhamu-recipe-book {
+  left: 935px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 432px;
+  width: 458px;
+}
+
+.profile .place-1 {
+  left: 1066px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1774px;
+  width: 280px;
+}
+
+.profile .flax {
+  left: 1099px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1910px;
+  width: 669px;
+}
+
+.profile .lions-mane {
+  left: 1053px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2036px;
+  width: 655px;
+}
+
+.profile .koromiko {
+  left: 1075px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2162px;
+  width: 867px;
+}
+
+.profile .this-months-recommended {
+  left: 871px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1619px;
+  width: 712px;
+}
+
+.profile .explore-more {
+  left: 236px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1630px;
+  width: 705px;
+}
+
+.profile .both {
+  left: 344px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2065px;
+  width: 184px;
+}
+
+.profile .medicinal {
+  left: 309px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1939px;
+  width: 279px;
+}
+
+.profile .foods {
+  left: 337px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1826px;
+  width: 214px;
+}
+
+.profile .rectangle-68 {
+  height: 1455px;
+  left: 27px;
+  position: absolute;
+  top: 64px;
+  width: 688px;
+}
+
+.profile .rectangle-69 {
+  height: 1147px;
+  left: 55px;
+  position: absolute;
+  top: 350px;
+  width: 628px;
+}
+
+.profile .rectangle-70 {
+  height: 313px;
+  left: 86px;
+  position: absolute;
+  top: 416px;
+  width: 566px;
+}
+
+.profile .rectangle-71 {
+  height: 313px;
+  left: 88px;
+  position: absolute;
+  top: 776px;
+  width: 566px;
+}
+
+.profile .rectangle-72 {
+  height: 313px;
+  left: 86px;
+  position: absolute;
+  top: 1133px;
+  width: 566px;
+}
+
+.profile .kwhiti-water-cress {
+  left: 389px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1146px;
+  width: 262px;
+}
+
+.profile .rectangle-81 {
+  height: 104px;
+  left: 118px;
+  position: absolute;
+  top: 105px;
+  width: 505px;
+}
+
+.profile .rectangle-82 {
+  height: 81px;
+  left: 130px;
+  position: absolute;
+  top: 112px;
+  width: 481px;
+}
+
+.profile .rectangle-78 {
+  height: 266px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 437px;
+  width: 260px;
+}
+
+.profile .rectangle-79 {
+  height: 266px;
+  left: 111px;
+  object-fit: cover;
+  position: absolute;
+  top: 1153px;
+  width: 260px;
+}
+
+.profile .rectangle-80 {
+  height: 266px;
+  left: 111px;
+  object-fit: cover;
+  position: absolute;
+  top: 794px;
+  width: 260px;
+}
+
+.profile .my-plants-library {
+  left: 217px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 123px;
+  width: 322px;
+}
+
+.profile .most-recent {
+  left: 253px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 262px;
+  width: 571px;
+}
+
+.profile .according-to-all-kno {
+  left: 378px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 523px;
+  width: 240px;
+}
+
+.profile .the-same-job-for-the {
+  left: 387px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 856px;
+  width: 224px;
+}
+
+.profile .had-one-day-off-in-2 {
+  left: 387px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1216px;
+  width: 240px;
+}
+
+.profile .mamaku-black-tree-fern {
+  left: 390px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 797px;
+  width: 242px;
+}
+
+.profile .oyster-mushroom-pleurotus-ostreatus {
+  left: 378px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 436px;
+  width: 270px;
+}
+
+.profile .search {
+  left: 1360px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 933px;
+  width: 162px;
+}
+
+.profile .overlap-group2 {
+  border-radius: 28px;
+  height: 38px;
+  left: 1311px;
+  position: absolute;
+  top: 9px;
+  width: 187px;
+}
+
+.profile .rectangle-82-1 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 28px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 187px;
+}
+
+.profile .rectangle-82-2 {
+  background-color: var(--caper);
+  border: 1px none;
+  border-radius: 28px;
+  height: 31px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 180px;
+}
+
+.profile .contact-us {
+  left: 47px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2px;
+}

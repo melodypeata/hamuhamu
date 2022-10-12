@@ -1,0 +1,107 @@
+:root { 
+  --black: #000000;
+  --caper: #deefb7;
+  --saddle: #4e3325;
+  --solitaire: #fff7e4;
+  --solitaire-2: #fff8e4;
+  --white: #ffffff;
+ 
+  --font-size-l: 25px;
+  --font-size-m: 20px;
+  --font-size-s: 15px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 40px;
+  --font-size-xxxl: 50px;
+  --font-size-xxxxl: 100px;
+ 
+  --font-family-caveat: "Caveat", Helvetica;
+  --font-family-news_cycle: "News Cycle", Helvetica;
+  --font-family-patua_one: "Patua One", Helvetica;
+}
+.newscycle-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-news_cycle);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.patuaone-normal-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-patua_one);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.patuaone-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-patua_one);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.newscycle-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-news_cycle);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.caveat-bold-white-100px {
+  color: var(--white);
+  font-family: var(--font-family-caveat);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.patuaone-normal-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-patua_one);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.patuaone-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-patua_one);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.patuaone-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-patua_one);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.patuaone-normal-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-patua_one);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.newscycle-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-news_cycle);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.patuaone-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-patua_one);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}

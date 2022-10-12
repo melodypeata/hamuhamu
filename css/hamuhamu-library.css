@@ -1,0 +1,865 @@
+/* screen - hamuhamu-library */
+
+.hamuhamu-library {
+  align-items: center;
+  background-color: var(--solitaire-2);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 5372px;
+  width: 1512px;
+}
+
+.hamuhamu-library .overlap-group8 {
+  height: 405px;
+  position: relative;
+  width: 1512px;
+  z-index: 1;
+}
+
+.hamuhamu-library .ixxn221_a2_-logo-copy-8 {
+  cursor: pointer;
+  height: 161px;
+  left: 42px;
+  position: absolute;
+  top: 119px;
+  width: 157px;
+}
+
+.hamuhamu-library .rectangle-137 {
+  height: 297px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.hamuhamu-library .rectangle-136 {
+  height: 273px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.hamuhamu-library .ellipse-5 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 137.5px/134.5px;
+  height: 269px;
+  left: 1098px;
+  position: absolute;
+  top: 116px;
+  width: 275px;
+}
+
+.hamuhamu-library .ellipse-5-1 {
+  height: 230px;
+  left: 1118px;
+  position: absolute;
+  top: 134px;
+  width: 237px;
+}
+
+.hamuhamu-library .hamuhamu {
+  left: 199px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 133px;
+  width: 1056px;
+}
+
+.hamuhamu-library .ixxn221_a2_-logo-copy-7 {
+  height: 161px;
+  left: 42px;
+  position: absolute;
+  top: 119px;
+  width: 157px;
+}
+
+.hamuhamu-library .ixxn221_a2_-icons-copy-3 {
+  height: 75px;
+  left: 1408px;
+  position: absolute;
+  top: 199px;
+  width: 67px;
+}
+
+.hamuhamu-library .rectangle-137-1 {
+  height: 60px;
+  left: 36px;
+  position: absolute;
+  top: 307px;
+  width: 261px;
+}
+
+.hamuhamu-library .rectangle-138 {
+  height: 40px;
+  left: 46px;
+  position: absolute;
+  top: 313px;
+  width: 239px;
+}
+
+.hamuhamu-library .back-to-profile {
+  left: 99px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 322px;
+  width: 249px;
+}
+
+.hamuhamu-library .hamuhamu-library-1 {
+  color: var(--black);
+  font-family: var(--font-family-patua_one);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 439px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 312px;
+  width: 633px;
+}
+
+.hamuhamu-library .screen-shot-2022-09-24-at-1251-1 {
+  height: 93px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 1512px;
+  z-index: 9;
+}
+
+.hamuhamu-library .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 76px;
+  margin-right: 8.0px;
+  margin-top: 35px;
+  min-width: 1328px;
+  z-index: 3;
+}
+
+.hamuhamu-library .overlap-group14 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-139-2@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  min-height: 624px;
+  padding: 43px 30px;
+  width: 626px;
+}
+
+.hamuhamu-library .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  height: 259px;
+  min-width: 546px;
+}
+
+.hamuhamu-library .rectangle-154 {
+  align-self: flex-end;
+  height: 257px;
+  object-fit: cover;
+  width: 259px;
+}
+
+.hamuhamu-library .kawakawa-macropiper {
+  letter-spacing: 0;
+  min-height: 166px;
+  width: 264px;
+}
+
+.hamuhamu-library .name {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 6.0px;
+  min-height: 200px;
+  width: 524px;
+}
+
+.hamuhamu-library .overlap-group7 {
+  background-image: url(../img/rectangle-151@1x.svg);
+  background-size: 100% 100%;
+  height: 624px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .overlap-group27 {
+  height: 488px;
+  left: 62px;
+  position: absolute;
+  top: 41px;
+  width: 531px;
+}
+
+.hamuhamu-library .mamaku-black-tree-fern {
+  left: 278px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.hamuhamu-library .the-middle-column-ha {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 241px;
+  width: 531px;
+}
+
+.hamuhamu-library .name-1 {
+  left: 278px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 73px;
+  width: 238px;
+}
+
+.hamuhamu-library .rectangle-139 {
+  height: 257px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 259px;
+}
+
+.hamuhamu-library .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 76px;
+  margin-right: 8.0px;
+  margin-top: 65px;
+  min-width: 1328px;
+  z-index: 8;
+}
+
+.hamuhamu-library .overlap-group-1 {
+  background-image: url(../img/rectangle-150@1x.svg);
+  background-size: 100% 100%;
+  height: 624px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .overlap-group26 {
+  height: 525px;
+  left: 54px;
+  position: absolute;
+  top: 48px;
+  width: 539px;
+}
+
+.hamuhamu-library .kwhiti-water-cress {
+  left: 278px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 261px;
+}
+
+.hamuhamu-library .buzz-im-picking-up {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 278px;
+  width: 524px;
+}
+
+.hamuhamu-library .right-in-the-midst-o {
+  left: 270px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 96px;
+  width: 254px;
+}
+
+.hamuhamu-library .rectangle-139-1 {
+  height: 257px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 259px;
+}
+
+.hamuhamu-library .overlap-group6 {
+  background-image: url(../img/rectangle-152@1x.svg);
+  background-size: 100% 100%;
+  height: 624px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .overlap-group29 {
+  height: 526px;
+  left: 52px;
+  position: absolute;
+  top: 39px;
+  width: 538px;
+}
+
+.hamuhamu-library .rectangle-153 {
+  height: 257px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 259px;
+}
+
+.hamuhamu-library .the-container {
+  height: 435px;
+  left: 0;
+  position: absolute;
+  top: 91px;
+  width: 538px;
+}
+
+.hamuhamu-library .splitz-this-is-the-c {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 174px;
+  width: 538px;
+}
+
+.hamuhamu-library .enter-frame-the-han {
+  left: 272px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 259px;
+}
+
+.hamuhamu-library .oyster-mushroom-pleurotus-ostreatus {
+  left: 328px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 38px;
+  width: 255px;
+}
+
+.hamuhamu-library .overlap-group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 76px;
+  margin-right: 8.0px;
+  margin-top: 65px;
+  min-width: 1328px;
+  z-index: 4;
+}
+
+.hamuhamu-library .overlap-group4 {
+  height: 626px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .rectangle-14 {
+  height: 624px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 626px;
+}
+
+.hamuhamu-library .rectangle-15 {
+  height: 257px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 259px;
+}
+
+.hamuhamu-library .name-2 {
+  left: 54px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 324px;
+  width: 524px;
+}
+
+.hamuhamu-library .barry-feels-the-g-fo {
+  left: 324px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 139px;
+  width: 254px;
+}
+
+.hamuhamu-library .kareao-ripogonum-scandens {
+  left: 325px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 50px;
+  width: 253px;
+}
+
+.hamuhamu-library .overlap-group11 {
+  background-image: url(../img/rectangle-149@1x.svg);
+  background-size: 100% 100%;
+  height: 624px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .overlap-group25 {
+  height: 508px;
+  left: 54px;
+  position: absolute;
+  top: 51px;
+  width: 534px;
+}
+
+.hamuhamu-library .rectangle-1 {
+  height: 257px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 259px;
+}
+
+.hamuhamu-library .overlap-group24 {
+  height: 419px;
+  left: 5px;
+  position: absolute;
+  top: 89px;
+  width: 529px;
+}
+
+.hamuhamu-library .name-3 {
+  left: 268px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 243px;
+}
+
+.hamuhamu-library .he-nimbly-avoids-the {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 177px;
+  width: 529px;
+}
+
+.hamuhamu-library .usnea-usnea-barbata {
+  left: 325px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 50px;
+  width: 260px;
+}
+
+.hamuhamu-library .overlap-group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 76px;
+  margin-right: 8.0px;
+  margin-top: 63px;
+  min-width: 1328px;
+  z-index: 5;
+}
+
+.hamuhamu-library .overlap-group10 {
+  background-image: url(../img/rectangle-141@1x.svg);
+  background-size: 100% 100%;
+  height: 624px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .rectangle-1-1 {
+  height: 257px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 259px;
+}
+
+.hamuhamu-library .overlap-group15 {
+  height: 499px;
+  left: 54px;
+  position: absolute;
+  top: 59px;
+  width: 533px;
+}
+
+.hamuhamu-library .vanessa-ken-andy {
+  left: 270px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 91px;
+  width: 263px;
+}
+
+.hamuhamu-library .i-hope-that-was-alri {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 266px;
+  width: 533px;
+}
+
+.hamuhamu-library .nikau-rhopalostylis-sapida {
+  left: 271px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 253px;
+}
+
+.hamuhamu-library .overlap-group13 {
+  background-image: url(../img/rectangle-142-1@1x.svg);
+  background-size: 100% 100%;
+  height: 624px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .overlap-group17 {
+  height: 513px;
+  left: 53px;
+  position: absolute;
+  top: 51px;
+  width: 530px;
+}
+
+.hamuhamu-library .rectangle-163 {
+  height: 257px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 259px;
+}
+
+.hamuhamu-library .overlap-group16 {
+  height: 427px;
+  left: 0;
+  position: absolute;
+  top: 86px;
+  width: 530px;
+}
+
+.hamuhamu-library .closes-the-door-behi {
+  left: 270px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 260px;
+}
+
+.hamuhamu-library .talian-vogue-barry {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 177px;
+  width: 525px;
+}
+
+.hamuhamu-library .puha-sow-thistle {
+  left: 323px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 48px;
+  width: 244px;
+}
+
+.hamuhamu-library .overlap-group-container-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 76px;
+  margin-right: 8.0px;
+  margin-top: 65px;
+  min-width: 1328px;
+  z-index: 6;
+}
+
+.hamuhamu-library .overlap-group12 {
+  background-image: url(../img/rectangle-148@1x.svg);
+  background-size: 100% 100%;
+  height: 624px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .overlap-group23 {
+  height: 536px;
+  left: 56px;
+  position: absolute;
+  top: 59px;
+  width: 541px;
+}
+
+.hamuhamu-library .barrys-parents-mar {
+  left: 271px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 91px;
+  width: 260px;
+}
+
+.hamuhamu-library .surname {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 266px;
+  width: 541px;
+}
+
+.hamuhamu-library .lions-mane-hericium {
+  left: 271px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 265px;
+}
+
+.hamuhamu-library .overlap-group5 {
+  background-image: url(../img/rectangle-143-1@1x.svg);
+  background-size: 100% 100%;
+  height: 624px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .overlap-group19 {
+  height: 502px;
+  left: 54px;
+  position: absolute;
+  top: 60px;
+  width: 541px;
+}
+
+.hamuhamu-library .overlap-group18 {
+  height: 409px;
+  left: 5px;
+  position: absolute;
+  top: 93px;
+  width: 536px;
+}
+
+.hamuhamu-library .surname-1 {
+  left: 268px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 268px;
+}
+
+.hamuhamu-library .the-jury-reacts-agh {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 172px;
+  width: 521px;
+}
+
+.hamuhamu-library .harakeke-flax {
+  left: 332px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 59px;
+  width: 242px;
+}
+
+.hamuhamu-library .overlap-group-container-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 76px;
+  margin-right: 8.0px;
+  margin-top: 65px;
+  min-width: 1328px;
+  z-index: 7;
+}
+
+.hamuhamu-library .overlap-group9 {
+  background-image: url(../img/rectangle-147@1x.svg);
+  background-size: 100% 100%;
+  height: 624px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .overlap-group22 {
+  height: 537px;
+  left: 54px;
+  position: absolute;
+  top: 60px;
+  width: 538px;
+}
+
+.hamuhamu-library .overlap-group21 {
+  height: 447px;
+  left: 0;
+  position: absolute;
+  top: 90px;
+  width: 538px;
+}
+
+.hamuhamu-library .i-knew-you-could-do {
+  left: 279px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 251px;
+}
+
+.hamuhamu-library .barry-ow-im-oka {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 176px;
+  width: 538px;
+}
+
+.hamuhamu-library .t-kuka-cabbage-tree {
+  left: 333px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 59px;
+  width: 239px;
+}
+
+.hamuhamu-library .overlap-group1 {
+  background-image: url(../img/rectangle-144-1@1x.svg);
+  background-size: 100% 100%;
+  height: 624px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .overlap-group20 {
+  height: 549px;
+  left: 62px;
+  position: absolute;
+  top: 55px;
+  width: 526px;
+}
+
+.hamuhamu-library .barry-how-much-hone {
+  left: 271px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 94px;
+  width: 255px;
+}
+
+.hamuhamu-library .what-do-you-mean-ad {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 265px;
+  width: 518px;
+}
+
+.hamuhamu-library .manuka-leptospermum-scoparium {
+  left: 274px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 228px;
+}
+
+.hamuhamu-library .overlap-group-container-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 76px;
+  margin-right: 8.0px;
+  margin-top: 65px;
+  min-width: 1328px;
+  z-index: 2;
+}
+
+.hamuhamu-library .overlap-group {
+  height: 624px;
+  position: relative;
+  width: 626px;
+}
+
+.hamuhamu-library .they-dont-know-what {
+  left: 53px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 232px;
+  width: 538px;
+}
+
+.hamuhamu-library .smelly-big-headed {
+  left: 323px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 152px;
+  width: 269px;
+}
+
+.hamuhamu-library .they-dont-know-what-1 {
+  left: 53px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 326px;
+  width: 538px;
+}
+
+.hamuhamu-library .ktukutuku-fuchsia-excorticata {
+  left: 323px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 62px;
+  width: 242px;
+}
+
+.hamuhamu-library .are-walking-up-the-s {
+  left: 62px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 234px;
+  width: 518px;
+}
+
+.hamuhamu-library .rectangle-160 {
+  height: 257px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 68px;
+  width: 259px;
+}
+
+.hamuhamu-library .this-was-my-new-job {
+  left: 326px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 159px;
+  width: 247px;
+}
+
+.hamuhamu-library .are-walking-up-the-s-1 {
+  left: 62px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 328px;
+  width: 518px;
+}
+
+.hamuhamu-library .horopito-pseudowintera-colorata {
+  left: 326px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 68px;
+  width: 252px;
+}
